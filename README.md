@@ -1,5 +1,3 @@
-# About-me
-About my self
 # 💫 About Me:
 Hi there! 👋 I'm Santanu Sing, an aspiring Front-End Web Developer currently pursuing my MCA.<br><br>💻 Passionate about creating engaging and responsive user interfaces<br>🎓 Currently working on my Master's degree in Computer Applications (MCA)<br>🌱 Continuously improving my skills in HTML, CSS, and JavaScript<br>🚀 Exploring modern front-end frameworks like React, Vue, or Angular<br>👨‍💻 Focusing on creating intuitive and visually appealing web experiences<br>📱 Interested in responsive design and mobile-first development<br>😄 Pronouns: He/Him
 
